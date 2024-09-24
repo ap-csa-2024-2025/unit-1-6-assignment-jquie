@@ -18,6 +18,7 @@ double x = 5 / 20;
 System.out.println(x);
 ```
 What answer do you get? The answer is imprecise!
+answer = 0.0
 
 Write a Java program that precisely calculates the decimal value of a fraction, and prints the answer to the screen. The value displayed must be accurate.
 
